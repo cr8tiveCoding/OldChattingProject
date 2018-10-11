@@ -1,0 +1,2 @@
+# OldChattingProject
+I made this Program 2 years ago and updated it with a few features this year as I was bored. I programmed an installer and added a self updater that will check the server for the newest update on boot, and proceed to download and update the application if out-of-date. Unfortunately I can't find the server side program, but I want to recreate the client-side program to be peer-to-peer instead. Cutting out the need for a Server-side program.
